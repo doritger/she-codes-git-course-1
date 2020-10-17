@@ -4,3 +4,5 @@ def missing_char(str, n):
   back = str[n+1:]
   # n+1 through end of string
   return front + back
+
+#git course
